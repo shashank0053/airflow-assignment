@@ -1,0 +1,141 @@
+[2024-12-16T12:54:29.401+0000] {processor.py:186} INFO - Started process (PID=24069) to work on /opt/airflow/dags/Assignment-1_dags/Q5_dag.py
+[2024-12-16T12:54:29.403+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Assignment-1_dags/Q5_dag.py for tasks to queue
+[2024-12-16T12:54:29.411+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:54:29.408+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Assignment-1_dags/Q5_dag.py
+[2024-12-16T12:54:29.432+0000] {processor.py:925} INFO - DAG(s) 'bigquery_random_data_dag' retrieved from /opt/airflow/dags/Assignment-1_dags/Q5_dag.py
+[2024-12-16T12:54:29.504+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:54:29.503+0000] {override.py:1911} INFO - Created Permission View: can edit on DAG:bigquery_random_data_dag
+[2024-12-16T12:54:29.509+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:54:29.509+0000] {override.py:1911} INFO - Created Permission View: can delete on DAG:bigquery_random_data_dag
+[2024-12-16T12:54:29.511+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:54:29.511+0000] {override.py:1911} INFO - Created Permission View: can read on DAG:bigquery_random_data_dag
+[2024-12-16T12:54:29.513+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:54:29.513+0000] {override.py:1911} INFO - Created Permission View: can delete on DAG Run:bigquery_random_data_dag
+[2024-12-16T12:54:29.515+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:54:29.515+0000] {override.py:1911} INFO - Created Permission View: can read on DAG Run:bigquery_random_data_dag
+[2024-12-16T12:54:29.517+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:54:29.517+0000] {override.py:1911} INFO - Created Permission View: menu access on DAG Run:bigquery_random_data_dag
+[2024-12-16T12:54:29.519+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:54:29.519+0000] {override.py:1911} INFO - Created Permission View: can create on DAG Run:bigquery_random_data_dag
+[2024-12-16T12:54:29.519+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:54:29.519+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T12:54:29.526+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:54:29.526+0000] {dag.py:3262} INFO - Creating ORM DAG for bigquery_random_data_dag
+[2024-12-16T12:54:29.527+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:54:29.527+0000] {dag.py:4180} INFO - Setting next_dagrun for bigquery_random_data_dag to None, run_after=None
+[2024-12-16T12:54:29.537+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Assignment-1_dags/Q5_dag.py took 0.145 seconds
+[2024-12-16T12:55:00.263+0000] {processor.py:186} INFO - Started process (PID=24082) to work on /opt/airflow/dags/Assignment-1_dags/Q5_dag.py
+[2024-12-16T12:55:00.264+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Assignment-1_dags/Q5_dag.py for tasks to queue
+[2024-12-16T12:55:00.267+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:55:00.266+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Assignment-1_dags/Q5_dag.py
+[2024-12-16T12:55:00.280+0000] {processor.py:925} INFO - DAG(s) 'bigquery_random_data_dag' retrieved from /opt/airflow/dags/Assignment-1_dags/Q5_dag.py
+[2024-12-16T12:55:00.300+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:55:00.300+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T12:55:00.310+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:55:00.310+0000] {dag.py:4180} INFO - Setting next_dagrun for bigquery_random_data_dag to None, run_after=None
+[2024-12-16T12:55:00.321+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Assignment-1_dags/Q5_dag.py took 0.066 seconds
+[2024-12-16T12:55:30.883+0000] {processor.py:186} INFO - Started process (PID=24094) to work on /opt/airflow/dags/Assignment-1_dags/Q5_dag.py
+[2024-12-16T12:55:30.884+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Assignment-1_dags/Q5_dag.py for tasks to queue
+[2024-12-16T12:55:30.886+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:55:30.885+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Assignment-1_dags/Q5_dag.py
+[2024-12-16T12:55:30.896+0000] {processor.py:925} INFO - DAG(s) 'bigquery_random_data_dag' retrieved from /opt/airflow/dags/Assignment-1_dags/Q5_dag.py
+[2024-12-16T12:55:30.914+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:55:30.914+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T12:55:30.924+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:55:30.924+0000] {dag.py:4180} INFO - Setting next_dagrun for bigquery_random_data_dag to None, run_after=None
+[2024-12-16T12:55:30.936+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Assignment-1_dags/Q5_dag.py took 0.058 seconds
+[2024-12-16T12:56:01.516+0000] {processor.py:186} INFO - Started process (PID=24107) to work on /opt/airflow/dags/Assignment-1_dags/Q5_dag.py
+[2024-12-16T12:56:01.517+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Assignment-1_dags/Q5_dag.py for tasks to queue
+[2024-12-16T12:56:01.519+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:56:01.519+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Assignment-1_dags/Q5_dag.py
+[2024-12-16T12:56:01.525+0000] {processor.py:925} INFO - DAG(s) 'bigquery_random_data_dag' retrieved from /opt/airflow/dags/Assignment-1_dags/Q5_dag.py
+[2024-12-16T12:56:01.539+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:56:01.538+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T12:56:01.547+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:56:01.546+0000] {dag.py:4180} INFO - Setting next_dagrun for bigquery_random_data_dag to None, run_after=None
+[2024-12-16T12:56:01.560+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Assignment-1_dags/Q5_dag.py took 0.048 seconds
+[2024-12-16T12:56:32.137+0000] {processor.py:186} INFO - Started process (PID=24120) to work on /opt/airflow/dags/Assignment-1_dags/Q5_dag.py
+[2024-12-16T12:56:32.138+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Assignment-1_dags/Q5_dag.py for tasks to queue
+[2024-12-16T12:56:32.141+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:56:32.141+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Assignment-1_dags/Q5_dag.py
+[2024-12-16T12:56:32.153+0000] {processor.py:925} INFO - DAG(s) 'bigquery_random_data_dag' retrieved from /opt/airflow/dags/Assignment-1_dags/Q5_dag.py
+[2024-12-16T12:56:32.173+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:56:32.172+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T12:56:32.182+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:56:32.182+0000] {dag.py:4180} INFO - Setting next_dagrun for bigquery_random_data_dag to None, run_after=None
+[2024-12-16T12:56:32.192+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Assignment-1_dags/Q5_dag.py took 0.062 seconds
+[2024-12-16T12:57:02.776+0000] {processor.py:186} INFO - Started process (PID=24133) to work on /opt/airflow/dags/Assignment-1_dags/Q5_dag.py
+[2024-12-16T12:57:02.777+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Assignment-1_dags/Q5_dag.py for tasks to queue
+[2024-12-16T12:57:02.780+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:57:02.779+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Assignment-1_dags/Q5_dag.py
+[2024-12-16T12:57:02.791+0000] {processor.py:925} INFO - DAG(s) 'bigquery_random_data_dag' retrieved from /opt/airflow/dags/Assignment-1_dags/Q5_dag.py
+[2024-12-16T12:57:02.808+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:57:02.807+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T12:57:02.817+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:57:02.817+0000] {dag.py:4180} INFO - Setting next_dagrun for bigquery_random_data_dag to None, run_after=None
+[2024-12-16T12:57:02.826+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Assignment-1_dags/Q5_dag.py took 0.060 seconds
+[2024-12-16T12:57:33.312+0000] {processor.py:186} INFO - Started process (PID=24146) to work on /opt/airflow/dags/Assignment-1_dags/Q5_dag.py
+[2024-12-16T12:57:33.313+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Assignment-1_dags/Q5_dag.py for tasks to queue
+[2024-12-16T12:57:33.316+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:57:33.316+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Assignment-1_dags/Q5_dag.py
+[2024-12-16T12:57:33.328+0000] {processor.py:925} INFO - DAG(s) 'bigquery_random_data_dag' retrieved from /opt/airflow/dags/Assignment-1_dags/Q5_dag.py
+[2024-12-16T12:57:33.346+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:57:33.345+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T12:57:33.354+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:57:33.354+0000] {dag.py:4180} INFO - Setting next_dagrun for bigquery_random_data_dag to None, run_after=None
+[2024-12-16T12:57:33.363+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Assignment-1_dags/Q5_dag.py took 0.059 seconds
+[2024-12-16T12:58:03.927+0000] {processor.py:186} INFO - Started process (PID=24159) to work on /opt/airflow/dags/Assignment-1_dags/Q5_dag.py
+[2024-12-16T12:58:03.928+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Assignment-1_dags/Q5_dag.py for tasks to queue
+[2024-12-16T12:58:03.931+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:58:03.931+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Assignment-1_dags/Q5_dag.py
+[2024-12-16T12:58:03.942+0000] {processor.py:925} INFO - DAG(s) 'bigquery_random_data_dag' retrieved from /opt/airflow/dags/Assignment-1_dags/Q5_dag.py
+[2024-12-16T12:58:03.961+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:58:03.960+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T12:58:03.971+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:58:03.970+0000] {dag.py:4180} INFO - Setting next_dagrun for bigquery_random_data_dag to None, run_after=None
+[2024-12-16T12:58:03.981+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Assignment-1_dags/Q5_dag.py took 0.060 seconds
+[2024-12-16T12:58:34.572+0000] {processor.py:186} INFO - Started process (PID=24172) to work on /opt/airflow/dags/Assignment-1_dags/Q5_dag.py
+[2024-12-16T12:58:34.572+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Assignment-1_dags/Q5_dag.py for tasks to queue
+[2024-12-16T12:58:34.575+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:58:34.575+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Assignment-1_dags/Q5_dag.py
+[2024-12-16T12:58:34.587+0000] {processor.py:925} INFO - DAG(s) 'bigquery_random_data_dag' retrieved from /opt/airflow/dags/Assignment-1_dags/Q5_dag.py
+[2024-12-16T12:58:34.604+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:58:34.604+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T12:58:34.614+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:58:34.613+0000] {dag.py:4180} INFO - Setting next_dagrun for bigquery_random_data_dag to None, run_after=None
+[2024-12-16T12:58:34.623+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Assignment-1_dags/Q5_dag.py took 0.059 seconds
+[2024-12-16T12:59:05.035+0000] {processor.py:186} INFO - Started process (PID=24184) to work on /opt/airflow/dags/Assignment-1_dags/Q5_dag.py
+[2024-12-16T12:59:05.036+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Assignment-1_dags/Q5_dag.py for tasks to queue
+[2024-12-16T12:59:05.039+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:59:05.039+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Assignment-1_dags/Q5_dag.py
+[2024-12-16T12:59:05.051+0000] {processor.py:925} INFO - DAG(s) 'bigquery_random_data_dag' retrieved from /opt/airflow/dags/Assignment-1_dags/Q5_dag.py
+[2024-12-16T12:59:05.068+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:59:05.068+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T12:59:05.079+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:59:05.079+0000] {dag.py:4180} INFO - Setting next_dagrun for bigquery_random_data_dag to None, run_after=None
+[2024-12-16T12:59:05.088+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Assignment-1_dags/Q5_dag.py took 0.060 seconds
+[2024-12-16T12:59:36.018+0000] {processor.py:186} INFO - Started process (PID=24201) to work on /opt/airflow/dags/Assignment-1_dags/Q5_dag.py
+[2024-12-16T12:59:36.019+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Assignment-1_dags/Q5_dag.py for tasks to queue
+[2024-12-16T12:59:36.024+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:59:36.023+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Assignment-1_dags/Q5_dag.py
+[2024-12-16T12:59:36.038+0000] {processor.py:925} INFO - DAG(s) 'bigquery_random_data_dag' retrieved from /opt/airflow/dags/Assignment-1_dags/Q5_dag.py
+[2024-12-16T12:59:36.057+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:59:36.056+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T12:59:36.067+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:59:36.067+0000] {dag.py:4180} INFO - Setting next_dagrun for bigquery_random_data_dag to None, run_after=None
+[2024-12-16T12:59:36.077+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Assignment-1_dags/Q5_dag.py took 0.069 seconds
+[2024-12-16T13:00:06.736+0000] {processor.py:186} INFO - Started process (PID=24218) to work on /opt/airflow/dags/Assignment-1_dags/Q5_dag.py
+[2024-12-16T13:00:06.736+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Assignment-1_dags/Q5_dag.py for tasks to queue
+[2024-12-16T13:00:06.740+0000] {logging_mixin.py:190} INFO - [2024-12-16T13:00:06.739+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Assignment-1_dags/Q5_dag.py
+[2024-12-16T13:00:06.751+0000] {processor.py:925} INFO - DAG(s) 'bigquery_random_data_dag' retrieved from /opt/airflow/dags/Assignment-1_dags/Q5_dag.py
+[2024-12-16T13:00:06.770+0000] {logging_mixin.py:190} INFO - [2024-12-16T13:00:06.770+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T13:00:06.779+0000] {logging_mixin.py:190} INFO - [2024-12-16T13:00:06.779+0000] {dag.py:4180} INFO - Setting next_dagrun for bigquery_random_data_dag to None, run_after=None
+[2024-12-16T13:00:06.788+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Assignment-1_dags/Q5_dag.py took 0.060 seconds
+[2024-12-16T13:00:37.433+0000] {processor.py:186} INFO - Started process (PID=24234) to work on /opt/airflow/dags/Assignment-1_dags/Q5_dag.py
+[2024-12-16T13:00:37.434+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Assignment-1_dags/Q5_dag.py for tasks to queue
+[2024-12-16T13:00:37.436+0000] {logging_mixin.py:190} INFO - [2024-12-16T13:00:37.436+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Assignment-1_dags/Q5_dag.py
+[2024-12-16T13:00:37.448+0000] {processor.py:925} INFO - DAG(s) 'bigquery_random_data_dag' retrieved from /opt/airflow/dags/Assignment-1_dags/Q5_dag.py
+[2024-12-16T13:00:37.466+0000] {logging_mixin.py:190} INFO - [2024-12-16T13:00:37.465+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T13:00:37.475+0000] {logging_mixin.py:190} INFO - [2024-12-16T13:00:37.475+0000] {dag.py:4180} INFO - Setting next_dagrun for bigquery_random_data_dag to None, run_after=None
+[2024-12-16T13:00:37.484+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Assignment-1_dags/Q5_dag.py took 0.060 seconds
+[2024-12-16T13:01:08.200+0000] {processor.py:186} INFO - Started process (PID=24251) to work on /opt/airflow/dags/Assignment-1_dags/Q5_dag.py
+[2024-12-16T13:01:08.200+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Assignment-1_dags/Q5_dag.py for tasks to queue
+[2024-12-16T13:01:08.204+0000] {logging_mixin.py:190} INFO - [2024-12-16T13:01:08.203+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Assignment-1_dags/Q5_dag.py
+[2024-12-16T13:01:08.214+0000] {processor.py:925} INFO - DAG(s) 'bigquery_random_data_dag' retrieved from /opt/airflow/dags/Assignment-1_dags/Q5_dag.py
+[2024-12-16T13:01:08.233+0000] {logging_mixin.py:190} INFO - [2024-12-16T13:01:08.233+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T13:01:08.242+0000] {logging_mixin.py:190} INFO - [2024-12-16T13:01:08.242+0000] {dag.py:4180} INFO - Setting next_dagrun for bigquery_random_data_dag to None, run_after=None
+[2024-12-16T13:01:08.251+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Assignment-1_dags/Q5_dag.py took 0.059 seconds
+[2024-12-16T13:01:38.961+0000] {processor.py:186} INFO - Started process (PID=24268) to work on /opt/airflow/dags/Assignment-1_dags/Q5_dag.py
+[2024-12-16T13:01:38.962+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Assignment-1_dags/Q5_dag.py for tasks to queue
+[2024-12-16T13:01:38.966+0000] {logging_mixin.py:190} INFO - [2024-12-16T13:01:38.965+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Assignment-1_dags/Q5_dag.py
+[2024-12-16T13:01:38.978+0000] {processor.py:925} INFO - DAG(s) 'bigquery_random_data_dag' retrieved from /opt/airflow/dags/Assignment-1_dags/Q5_dag.py
+[2024-12-16T13:01:39.002+0000] {logging_mixin.py:190} INFO - [2024-12-16T13:01:39.002+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T13:01:39.011+0000] {logging_mixin.py:190} INFO - [2024-12-16T13:01:39.011+0000] {dag.py:4180} INFO - Setting next_dagrun for bigquery_random_data_dag to None, run_after=None
+[2024-12-16T13:01:39.022+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Assignment-1_dags/Q5_dag.py took 0.069 seconds
+[2024-12-16T13:02:09.691+0000] {processor.py:186} INFO - Started process (PID=24285) to work on /opt/airflow/dags/Assignment-1_dags/Q5_dag.py
+[2024-12-16T13:02:09.692+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Assignment-1_dags/Q5_dag.py for tasks to queue
+[2024-12-16T13:02:09.694+0000] {logging_mixin.py:190} INFO - [2024-12-16T13:02:09.694+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Assignment-1_dags/Q5_dag.py
+[2024-12-16T13:02:09.705+0000] {processor.py:925} INFO - DAG(s) 'bigquery_random_data_dag' retrieved from /opt/airflow/dags/Assignment-1_dags/Q5_dag.py
+[2024-12-16T13:02:09.723+0000] {logging_mixin.py:190} INFO - [2024-12-16T13:02:09.722+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T13:02:09.735+0000] {logging_mixin.py:190} INFO - [2024-12-16T13:02:09.735+0000] {dag.py:4180} INFO - Setting next_dagrun for bigquery_random_data_dag to None, run_after=None
+[2024-12-16T13:02:09.746+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Assignment-1_dags/Q5_dag.py took 0.063 seconds
+[2024-12-16T13:02:40.493+0000] {processor.py:186} INFO - Started process (PID=24302) to work on /opt/airflow/dags/Assignment-1_dags/Q5_dag.py
+[2024-12-16T13:02:40.494+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Assignment-1_dags/Q5_dag.py for tasks to queue
+[2024-12-16T13:02:40.497+0000] {logging_mixin.py:190} INFO - [2024-12-16T13:02:40.497+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Assignment-1_dags/Q5_dag.py
+[2024-12-16T13:02:40.508+0000] {processor.py:925} INFO - DAG(s) 'bigquery_random_data_dag' retrieved from /opt/airflow/dags/Assignment-1_dags/Q5_dag.py
+[2024-12-16T13:02:40.525+0000] {logging_mixin.py:190} INFO - [2024-12-16T13:02:40.525+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T13:02:40.534+0000] {logging_mixin.py:190} INFO - [2024-12-16T13:02:40.534+0000] {dag.py:4180} INFO - Setting next_dagrun for bigquery_random_data_dag to None, run_after=None
+[2024-12-16T13:02:40.545+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Assignment-1_dags/Q5_dag.py took 0.059 seconds
+[2024-12-16T13:03:11.291+0000] {processor.py:186} INFO - Started process (PID=24319) to work on /opt/airflow/dags/Assignment-1_dags/Q5_dag.py
+[2024-12-16T13:03:11.292+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Assignment-1_dags/Q5_dag.py for tasks to queue
+[2024-12-16T13:03:11.294+0000] {logging_mixin.py:190} INFO - [2024-12-16T13:03:11.294+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Assignment-1_dags/Q5_dag.py
+[2024-12-16T13:03:11.305+0000] {processor.py:925} INFO - DAG(s) 'bigquery_random_data_dag' retrieved from /opt/airflow/dags/Assignment-1_dags/Q5_dag.py
+[2024-12-16T13:03:11.321+0000] {logging_mixin.py:190} INFO - [2024-12-16T13:03:11.321+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T13:03:11.330+0000] {logging_mixin.py:190} INFO - [2024-12-16T13:03:11.330+0000] {dag.py:4180} INFO - Setting next_dagrun for bigquery_random_data_dag to None, run_after=None
+[2024-12-16T13:03:11.340+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Assignment-1_dags/Q5_dag.py took 0.055 seconds
+[2024-12-16T13:03:42.055+0000] {processor.py:186} INFO - Started process (PID=24336) to work on /opt/airflow/dags/Assignment-1_dags/Q5_dag.py
+[2024-12-16T13:03:42.056+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Assignment-1_dags/Q5_dag.py for tasks to queue
+[2024-12-16T13:03:42.060+0000] {logging_mixin.py:190} INFO - [2024-12-16T13:03:42.059+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Assignment-1_dags/Q5_dag.py
+[2024-12-16T13:03:42.069+0000] {processor.py:925} INFO - DAG(s) 'bigquery_random_data_dag' retrieved from /opt/airflow/dags/Assignment-1_dags/Q5_dag.py
+[2024-12-16T13:03:42.086+0000] {logging_mixin.py:190} INFO - [2024-12-16T13:03:42.086+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T13:03:42.095+0000] {logging_mixin.py:190} INFO - [2024-12-16T13:03:42.094+0000] {dag.py:4180} INFO - Setting next_dagrun for bigquery_random_data_dag to None, run_after=None
+[2024-12-16T13:03:42.104+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Assignment-1_dags/Q5_dag.py took 0.056 seconds

@@ -1,0 +1,71 @@
+[2024-12-16T12:59:27.638+0000] {processor.py:186} INFO - Started process (PID=24190) to work on /opt/airflow/dags/Assignment-4_dags/Q1_dag.py
+[2024-12-16T12:59:27.639+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Assignment-4_dags/Q1_dag.py for tasks to queue
+[2024-12-16T12:59:27.642+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:59:27.642+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Assignment-4_dags/Q1_dag.py
+[2024-12-16T12:59:27.652+0000] {processor.py:925} INFO - DAG(s) 'ques4' retrieved from /opt/airflow/dags/Assignment-4_dags/Q1_dag.py
+[2024-12-16T12:59:27.708+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:59:27.707+0000] {override.py:1911} INFO - Created Permission View: can edit on DAG:ques4
+[2024-12-16T12:59:27.715+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:59:27.715+0000] {override.py:1911} INFO - Created Permission View: can delete on DAG:ques4
+[2024-12-16T12:59:27.720+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:59:27.720+0000] {override.py:1911} INFO - Created Permission View: can read on DAG:ques4
+[2024-12-16T12:59:27.722+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:59:27.722+0000] {override.py:1911} INFO - Created Permission View: can delete on DAG Run:ques4
+[2024-12-16T12:59:27.728+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:59:27.728+0000] {override.py:1911} INFO - Created Permission View: can read on DAG Run:ques4
+[2024-12-16T12:59:27.733+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:59:27.733+0000] {override.py:1911} INFO - Created Permission View: menu access on DAG Run:ques4
+[2024-12-16T12:59:27.741+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:59:27.741+0000] {override.py:1911} INFO - Created Permission View: can create on DAG Run:ques4
+[2024-12-16T12:59:27.742+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:59:27.741+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T12:59:27.748+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:59:27.748+0000] {dag.py:3262} INFO - Creating ORM DAG for ques4
+[2024-12-16T12:59:27.754+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:59:27.754+0000] {dag.py:4180} INFO - Setting next_dagrun for ques4 to 2024-12-15 00:00:00+00:00, run_after=2024-12-15 00:00:00+00:00
+[2024-12-16T12:59:27.773+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Assignment-4_dags/Q1_dag.py took 0.138 seconds
+[2024-12-16T12:59:58.430+0000] {processor.py:186} INFO - Started process (PID=24207) to work on /opt/airflow/dags/Assignment-4_dags/Q1_dag.py
+[2024-12-16T12:59:58.431+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Assignment-4_dags/Q1_dag.py for tasks to queue
+[2024-12-16T12:59:58.432+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:59:58.432+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Assignment-4_dags/Q1_dag.py
+[2024-12-16T12:59:58.437+0000] {processor.py:925} INFO - DAG(s) 'ques4' retrieved from /opt/airflow/dags/Assignment-4_dags/Q1_dag.py
+[2024-12-16T12:59:58.448+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:59:58.447+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T12:59:58.457+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:59:58.457+0000] {dag.py:4180} INFO - Setting next_dagrun for ques4 to 2024-12-15 00:00:00+00:00, run_after=2024-12-15 00:00:00+00:00
+[2024-12-16T12:59:58.464+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Assignment-4_dags/Q1_dag.py took 0.037 seconds
+[2024-12-16T13:00:29.166+0000] {processor.py:186} INFO - Started process (PID=24229) to work on /opt/airflow/dags/Assignment-4_dags/Q1_dag.py
+[2024-12-16T13:00:29.168+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Assignment-4_dags/Q1_dag.py for tasks to queue
+[2024-12-16T13:00:29.170+0000] {logging_mixin.py:190} INFO - [2024-12-16T13:00:29.169+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Assignment-4_dags/Q1_dag.py
+[2024-12-16T13:00:29.175+0000] {processor.py:925} INFO - DAG(s) 'ques4' retrieved from /opt/airflow/dags/Assignment-4_dags/Q1_dag.py
+[2024-12-16T13:00:29.191+0000] {logging_mixin.py:190} INFO - [2024-12-16T13:00:29.191+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T13:00:29.202+0000] {logging_mixin.py:190} INFO - [2024-12-16T13:00:29.202+0000] {dag.py:4180} INFO - Setting next_dagrun for ques4 to 2024-12-15 00:00:00+00:00, run_after=2024-12-15 00:00:00+00:00
+[2024-12-16T13:00:29.211+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Assignment-4_dags/Q1_dag.py took 0.049 seconds
+[2024-12-16T13:00:59.912+0000] {processor.py:186} INFO - Started process (PID=24246) to work on /opt/airflow/dags/Assignment-4_dags/Q1_dag.py
+[2024-12-16T13:00:59.913+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Assignment-4_dags/Q1_dag.py for tasks to queue
+[2024-12-16T13:00:59.915+0000] {logging_mixin.py:190} INFO - [2024-12-16T13:00:59.915+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Assignment-4_dags/Q1_dag.py
+[2024-12-16T13:00:59.924+0000] {processor.py:925} INFO - DAG(s) 'ques4' retrieved from /opt/airflow/dags/Assignment-4_dags/Q1_dag.py
+[2024-12-16T13:00:59.935+0000] {logging_mixin.py:190} INFO - [2024-12-16T13:00:59.935+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T13:00:59.946+0000] {logging_mixin.py:190} INFO - [2024-12-16T13:00:59.946+0000] {dag.py:4180} INFO - Setting next_dagrun for ques4 to 2024-12-15 00:00:00+00:00, run_after=2024-12-15 00:00:00+00:00
+[2024-12-16T13:00:59.956+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Assignment-4_dags/Q1_dag.py took 0.048 seconds
+[2024-12-16T13:01:30.675+0000] {processor.py:186} INFO - Started process (PID=24263) to work on /opt/airflow/dags/Assignment-4_dags/Q1_dag.py
+[2024-12-16T13:01:30.675+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Assignment-4_dags/Q1_dag.py for tasks to queue
+[2024-12-16T13:01:30.676+0000] {logging_mixin.py:190} INFO - [2024-12-16T13:01:30.676+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Assignment-4_dags/Q1_dag.py
+[2024-12-16T13:01:30.682+0000] {processor.py:925} INFO - DAG(s) 'ques4' retrieved from /opt/airflow/dags/Assignment-4_dags/Q1_dag.py
+[2024-12-16T13:01:30.692+0000] {logging_mixin.py:190} INFO - [2024-12-16T13:01:30.692+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T13:01:30.702+0000] {logging_mixin.py:190} INFO - [2024-12-16T13:01:30.701+0000] {dag.py:4180} INFO - Setting next_dagrun for ques4 to 2024-12-15 00:00:00+00:00, run_after=2024-12-15 00:00:00+00:00
+[2024-12-16T13:01:30.709+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Assignment-4_dags/Q1_dag.py took 0.037 seconds
+[2024-12-16T13:02:01.439+0000] {processor.py:186} INFO - Started process (PID=24280) to work on /opt/airflow/dags/Assignment-4_dags/Q1_dag.py
+[2024-12-16T13:02:01.440+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Assignment-4_dags/Q1_dag.py for tasks to queue
+[2024-12-16T13:02:01.442+0000] {logging_mixin.py:190} INFO - [2024-12-16T13:02:01.441+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Assignment-4_dags/Q1_dag.py
+[2024-12-16T13:02:01.450+0000] {processor.py:925} INFO - DAG(s) 'ques4' retrieved from /opt/airflow/dags/Assignment-4_dags/Q1_dag.py
+[2024-12-16T13:02:01.464+0000] {logging_mixin.py:190} INFO - [2024-12-16T13:02:01.464+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T13:02:01.477+0000] {logging_mixin.py:190} INFO - [2024-12-16T13:02:01.477+0000] {dag.py:4180} INFO - Setting next_dagrun for ques4 to 2024-12-15 00:00:00+00:00, run_after=2024-12-15 00:00:00+00:00
+[2024-12-16T13:02:01.487+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Assignment-4_dags/Q1_dag.py took 0.056 seconds
+[2024-12-16T13:02:32.197+0000] {processor.py:186} INFO - Started process (PID=24297) to work on /opt/airflow/dags/Assignment-4_dags/Q1_dag.py
+[2024-12-16T13:02:32.198+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Assignment-4_dags/Q1_dag.py for tasks to queue
+[2024-12-16T13:02:32.199+0000] {logging_mixin.py:190} INFO - [2024-12-16T13:02:32.199+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Assignment-4_dags/Q1_dag.py
+[2024-12-16T13:02:32.206+0000] {processor.py:925} INFO - DAG(s) 'ques4' retrieved from /opt/airflow/dags/Assignment-4_dags/Q1_dag.py
+[2024-12-16T13:02:32.223+0000] {logging_mixin.py:190} INFO - [2024-12-16T13:02:32.222+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T13:02:32.238+0000] {logging_mixin.py:190} INFO - [2024-12-16T13:02:32.238+0000] {dag.py:4180} INFO - Setting next_dagrun for ques4 to 2024-12-15 00:00:00+00:00, run_after=2024-12-15 00:00:00+00:00
+[2024-12-16T13:02:32.260+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Assignment-4_dags/Q1_dag.py took 0.066 seconds
+[2024-12-16T13:03:03.010+0000] {processor.py:186} INFO - Started process (PID=24314) to work on /opt/airflow/dags/Assignment-4_dags/Q1_dag.py
+[2024-12-16T13:03:03.010+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Assignment-4_dags/Q1_dag.py for tasks to queue
+[2024-12-16T13:03:03.012+0000] {logging_mixin.py:190} INFO - [2024-12-16T13:03:03.012+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Assignment-4_dags/Q1_dag.py
+[2024-12-16T13:03:03.018+0000] {processor.py:925} INFO - DAG(s) 'ques4' retrieved from /opt/airflow/dags/Assignment-4_dags/Q1_dag.py
+[2024-12-16T13:03:03.032+0000] {logging_mixin.py:190} INFO - [2024-12-16T13:03:03.031+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T13:03:03.044+0000] {logging_mixin.py:190} INFO - [2024-12-16T13:03:03.044+0000] {dag.py:4180} INFO - Setting next_dagrun for ques4 to 2024-12-15 00:00:00+00:00, run_after=2024-12-15 00:00:00+00:00
+[2024-12-16T13:03:03.053+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Assignment-4_dags/Q1_dag.py took 0.048 seconds
+[2024-12-16T13:03:33.816+0000] {processor.py:186} INFO - Started process (PID=24331) to work on /opt/airflow/dags/Assignment-4_dags/Q1_dag.py
+[2024-12-16T13:03:33.817+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Assignment-4_dags/Q1_dag.py for tasks to queue
+[2024-12-16T13:03:33.818+0000] {logging_mixin.py:190} INFO - [2024-12-16T13:03:33.818+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Assignment-4_dags/Q1_dag.py
+[2024-12-16T13:03:33.824+0000] {processor.py:925} INFO - DAG(s) 'ques4' retrieved from /opt/airflow/dags/Assignment-4_dags/Q1_dag.py
+[2024-12-16T13:03:33.834+0000] {logging_mixin.py:190} INFO - [2024-12-16T13:03:33.834+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T13:03:33.844+0000] {logging_mixin.py:190} INFO - [2024-12-16T13:03:33.844+0000] {dag.py:4180} INFO - Setting next_dagrun for ques4 to 2024-12-15 00:00:00+00:00, run_after=2024-12-15 00:00:00+00:00
+[2024-12-16T13:03:33.851+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Assignment-4_dags/Q1_dag.py took 0.038 seconds

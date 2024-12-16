@@ -1,0 +1,141 @@
+[2024-12-16T12:54:27.433+0000] {processor.py:186} INFO - Started process (PID=24061) to work on /opt/airflow/dags/Assignment-2_dags/dag_b.py
+[2024-12-16T12:54:27.434+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Assignment-2_dags/dag_b.py for tasks to queue
+[2024-12-16T12:54:27.437+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:54:27.437+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Assignment-2_dags/dag_b.py
+[2024-12-16T12:54:27.477+0000] {processor.py:925} INFO - DAG(s) 'DAG_B' retrieved from /opt/airflow/dags/Assignment-2_dags/dag_b.py
+[2024-12-16T12:54:27.687+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:54:27.687+0000] {override.py:1911} INFO - Created Permission View: can edit on DAG:DAG_B
+[2024-12-16T12:54:27.695+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:54:27.695+0000] {override.py:1911} INFO - Created Permission View: can delete on DAG:DAG_B
+[2024-12-16T12:54:27.700+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:54:27.700+0000] {override.py:1911} INFO - Created Permission View: can read on DAG:DAG_B
+[2024-12-16T12:54:27.709+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:54:27.709+0000] {override.py:1911} INFO - Created Permission View: can delete on DAG Run:DAG_B
+[2024-12-16T12:54:27.716+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:54:27.715+0000] {override.py:1911} INFO - Created Permission View: can read on DAG Run:DAG_B
+[2024-12-16T12:54:27.721+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:54:27.720+0000] {override.py:1911} INFO - Created Permission View: menu access on DAG Run:DAG_B
+[2024-12-16T12:54:27.725+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:54:27.725+0000] {override.py:1911} INFO - Created Permission View: can create on DAG Run:DAG_B
+[2024-12-16T12:54:27.726+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:54:27.725+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T12:54:27.738+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:54:27.738+0000] {dag.py:3262} INFO - Creating ORM DAG for DAG_B
+[2024-12-16T12:54:27.740+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:54:27.739+0000] {dag.py:4180} INFO - Setting next_dagrun for DAG_B to None, run_after=None
+[2024-12-16T12:54:27.751+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Assignment-2_dags/dag_b.py took 0.326 seconds
+[2024-12-16T12:54:57.998+0000] {processor.py:186} INFO - Started process (PID=24074) to work on /opt/airflow/dags/Assignment-2_dags/dag_b.py
+[2024-12-16T12:54:58.000+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Assignment-2_dags/dag_b.py for tasks to queue
+[2024-12-16T12:54:58.003+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:54:58.003+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Assignment-2_dags/dag_b.py
+[2024-12-16T12:54:58.052+0000] {processor.py:925} INFO - DAG(s) 'DAG_B' retrieved from /opt/airflow/dags/Assignment-2_dags/dag_b.py
+[2024-12-16T12:54:58.132+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:54:58.131+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T12:54:58.170+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:54:58.170+0000] {dag.py:4180} INFO - Setting next_dagrun for DAG_B to None, run_after=None
+[2024-12-16T12:54:58.194+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Assignment-2_dags/dag_b.py took 0.205 seconds
+[2024-12-16T12:55:28.762+0000] {processor.py:186} INFO - Started process (PID=24092) to work on /opt/airflow/dags/Assignment-2_dags/dag_b.py
+[2024-12-16T12:55:28.763+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Assignment-2_dags/dag_b.py for tasks to queue
+[2024-12-16T12:55:28.766+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:55:28.765+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Assignment-2_dags/dag_b.py
+[2024-12-16T12:55:28.784+0000] {processor.py:925} INFO - DAG(s) 'DAG_B' retrieved from /opt/airflow/dags/Assignment-2_dags/dag_b.py
+[2024-12-16T12:55:28.806+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:55:28.806+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T12:55:28.816+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:55:28.816+0000] {dag.py:4180} INFO - Setting next_dagrun for DAG_B to None, run_after=None
+[2024-12-16T12:55:28.829+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Assignment-2_dags/dag_b.py took 0.074 seconds
+[2024-12-16T12:55:59.410+0000] {processor.py:186} INFO - Started process (PID=24105) to work on /opt/airflow/dags/Assignment-2_dags/dag_b.py
+[2024-12-16T12:55:59.413+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Assignment-2_dags/dag_b.py for tasks to queue
+[2024-12-16T12:55:59.417+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:55:59.416+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Assignment-2_dags/dag_b.py
+[2024-12-16T12:55:59.430+0000] {processor.py:925} INFO - DAG(s) 'DAG_B' retrieved from /opt/airflow/dags/Assignment-2_dags/dag_b.py
+[2024-12-16T12:55:59.451+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:55:59.451+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T12:55:59.463+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:55:59.463+0000] {dag.py:4180} INFO - Setting next_dagrun for DAG_B to None, run_after=None
+[2024-12-16T12:55:59.475+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Assignment-2_dags/dag_b.py took 0.073 seconds
+[2024-12-16T12:56:29.977+0000] {processor.py:186} INFO - Started process (PID=24118) to work on /opt/airflow/dags/Assignment-2_dags/dag_b.py
+[2024-12-16T12:56:29.979+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Assignment-2_dags/dag_b.py for tasks to queue
+[2024-12-16T12:56:29.984+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:56:29.984+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Assignment-2_dags/dag_b.py
+[2024-12-16T12:56:30.020+0000] {processor.py:925} INFO - DAG(s) 'DAG_B' retrieved from /opt/airflow/dags/Assignment-2_dags/dag_b.py
+[2024-12-16T12:56:30.047+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:56:30.047+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T12:56:30.060+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:56:30.060+0000] {dag.py:4180} INFO - Setting next_dagrun for DAG_B to None, run_after=None
+[2024-12-16T12:56:30.074+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Assignment-2_dags/dag_b.py took 0.109 seconds
+[2024-12-16T12:57:00.633+0000] {processor.py:186} INFO - Started process (PID=24131) to work on /opt/airflow/dags/Assignment-2_dags/dag_b.py
+[2024-12-16T12:57:00.637+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Assignment-2_dags/dag_b.py for tasks to queue
+[2024-12-16T12:57:00.642+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:57:00.641+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Assignment-2_dags/dag_b.py
+[2024-12-16T12:57:00.662+0000] {processor.py:925} INFO - DAG(s) 'DAG_B' retrieved from /opt/airflow/dags/Assignment-2_dags/dag_b.py
+[2024-12-16T12:57:00.687+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:57:00.686+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T12:57:00.700+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:57:00.700+0000] {dag.py:4180} INFO - Setting next_dagrun for DAG_B to None, run_after=None
+[2024-12-16T12:57:00.714+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Assignment-2_dags/dag_b.py took 0.108 seconds
+[2024-12-16T12:57:31.197+0000] {processor.py:186} INFO - Started process (PID=24144) to work on /opt/airflow/dags/Assignment-2_dags/dag_b.py
+[2024-12-16T12:57:31.199+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Assignment-2_dags/dag_b.py for tasks to queue
+[2024-12-16T12:57:31.202+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:57:31.201+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Assignment-2_dags/dag_b.py
+[2024-12-16T12:57:31.214+0000] {processor.py:925} INFO - DAG(s) 'DAG_B' retrieved from /opt/airflow/dags/Assignment-2_dags/dag_b.py
+[2024-12-16T12:57:31.232+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:57:31.231+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T12:57:31.241+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:57:31.241+0000] {dag.py:4180} INFO - Setting next_dagrun for DAG_B to None, run_after=None
+[2024-12-16T12:57:31.253+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Assignment-2_dags/dag_b.py took 0.063 seconds
+[2024-12-16T12:58:01.796+0000] {processor.py:186} INFO - Started process (PID=24157) to work on /opt/airflow/dags/Assignment-2_dags/dag_b.py
+[2024-12-16T12:58:01.798+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Assignment-2_dags/dag_b.py for tasks to queue
+[2024-12-16T12:58:01.803+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:58:01.802+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Assignment-2_dags/dag_b.py
+[2024-12-16T12:58:01.823+0000] {processor.py:925} INFO - DAG(s) 'DAG_B' retrieved from /opt/airflow/dags/Assignment-2_dags/dag_b.py
+[2024-12-16T12:58:01.846+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:58:01.846+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T12:58:01.859+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:58:01.858+0000] {dag.py:4180} INFO - Setting next_dagrun for DAG_B to None, run_after=None
+[2024-12-16T12:58:01.873+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Assignment-2_dags/dag_b.py took 0.086 seconds
+[2024-12-16T12:58:32.405+0000] {processor.py:186} INFO - Started process (PID=24170) to work on /opt/airflow/dags/Assignment-2_dags/dag_b.py
+[2024-12-16T12:58:32.407+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Assignment-2_dags/dag_b.py for tasks to queue
+[2024-12-16T12:58:32.410+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:58:32.410+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Assignment-2_dags/dag_b.py
+[2024-12-16T12:58:32.422+0000] {processor.py:925} INFO - DAG(s) 'DAG_B' retrieved from /opt/airflow/dags/Assignment-2_dags/dag_b.py
+[2024-12-16T12:58:32.445+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:58:32.445+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T12:58:32.456+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:58:32.455+0000] {dag.py:4180} INFO - Setting next_dagrun for DAG_B to None, run_after=None
+[2024-12-16T12:58:32.466+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Assignment-2_dags/dag_b.py took 0.068 seconds
+[2024-12-16T12:59:02.930+0000] {processor.py:186} INFO - Started process (PID=24182) to work on /opt/airflow/dags/Assignment-2_dags/dag_b.py
+[2024-12-16T12:59:02.931+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Assignment-2_dags/dag_b.py for tasks to queue
+[2024-12-16T12:59:02.934+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:59:02.934+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Assignment-2_dags/dag_b.py
+[2024-12-16T12:59:02.945+0000] {processor.py:925} INFO - DAG(s) 'DAG_B' retrieved from /opt/airflow/dags/Assignment-2_dags/dag_b.py
+[2024-12-16T12:59:02.962+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:59:02.961+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T12:59:02.970+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:59:02.970+0000] {dag.py:4180} INFO - Setting next_dagrun for DAG_B to None, run_after=None
+[2024-12-16T12:59:02.981+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Assignment-2_dags/dag_b.py took 0.058 seconds
+[2024-12-16T12:59:33.901+0000] {processor.py:186} INFO - Started process (PID=24199) to work on /opt/airflow/dags/Assignment-2_dags/dag_b.py
+[2024-12-16T12:59:33.907+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Assignment-2_dags/dag_b.py for tasks to queue
+[2024-12-16T12:59:33.910+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:59:33.910+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Assignment-2_dags/dag_b.py
+[2024-12-16T12:59:33.921+0000] {processor.py:925} INFO - DAG(s) 'DAG_B' retrieved from /opt/airflow/dags/Assignment-2_dags/dag_b.py
+[2024-12-16T12:59:33.937+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:59:33.936+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T12:59:33.946+0000] {logging_mixin.py:190} INFO - [2024-12-16T12:59:33.945+0000] {dag.py:4180} INFO - Setting next_dagrun for DAG_B to None, run_after=None
+[2024-12-16T12:59:33.959+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Assignment-2_dags/dag_b.py took 0.065 seconds
+[2024-12-16T13:00:04.618+0000] {processor.py:186} INFO - Started process (PID=24216) to work on /opt/airflow/dags/Assignment-2_dags/dag_b.py
+[2024-12-16T13:00:04.618+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Assignment-2_dags/dag_b.py for tasks to queue
+[2024-12-16T13:00:04.621+0000] {logging_mixin.py:190} INFO - [2024-12-16T13:00:04.620+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Assignment-2_dags/dag_b.py
+[2024-12-16T13:00:04.634+0000] {processor.py:925} INFO - DAG(s) 'DAG_B' retrieved from /opt/airflow/dags/Assignment-2_dags/dag_b.py
+[2024-12-16T13:00:04.652+0000] {logging_mixin.py:190} INFO - [2024-12-16T13:00:04.652+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T13:00:04.663+0000] {logging_mixin.py:190} INFO - [2024-12-16T13:00:04.663+0000] {dag.py:4180} INFO - Setting next_dagrun for DAG_B to None, run_after=None
+[2024-12-16T13:00:04.675+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Assignment-2_dags/dag_b.py took 0.065 seconds
+[2024-12-16T13:00:35.311+0000] {processor.py:186} INFO - Started process (PID=24232) to work on /opt/airflow/dags/Assignment-2_dags/dag_b.py
+[2024-12-16T13:00:35.312+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Assignment-2_dags/dag_b.py for tasks to queue
+[2024-12-16T13:00:35.315+0000] {logging_mixin.py:190} INFO - [2024-12-16T13:00:35.315+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Assignment-2_dags/dag_b.py
+[2024-12-16T13:00:35.328+0000] {processor.py:925} INFO - DAG(s) 'DAG_B' retrieved from /opt/airflow/dags/Assignment-2_dags/dag_b.py
+[2024-12-16T13:00:35.348+0000] {logging_mixin.py:190} INFO - [2024-12-16T13:00:35.348+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T13:00:35.360+0000] {logging_mixin.py:190} INFO - [2024-12-16T13:00:35.360+0000] {dag.py:4180} INFO - Setting next_dagrun for DAG_B to None, run_after=None
+[2024-12-16T13:00:35.372+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Assignment-2_dags/dag_b.py took 0.066 seconds
+[2024-12-16T13:01:06.079+0000] {processor.py:186} INFO - Started process (PID=24249) to work on /opt/airflow/dags/Assignment-2_dags/dag_b.py
+[2024-12-16T13:01:06.080+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Assignment-2_dags/dag_b.py for tasks to queue
+[2024-12-16T13:01:06.086+0000] {logging_mixin.py:190} INFO - [2024-12-16T13:01:06.085+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Assignment-2_dags/dag_b.py
+[2024-12-16T13:01:06.099+0000] {processor.py:925} INFO - DAG(s) 'DAG_B' retrieved from /opt/airflow/dags/Assignment-2_dags/dag_b.py
+[2024-12-16T13:01:06.120+0000] {logging_mixin.py:190} INFO - [2024-12-16T13:01:06.119+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T13:01:06.132+0000] {logging_mixin.py:190} INFO - [2024-12-16T13:01:06.131+0000] {dag.py:4180} INFO - Setting next_dagrun for DAG_B to None, run_after=None
+[2024-12-16T13:01:06.143+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Assignment-2_dags/dag_b.py took 0.072 seconds
+[2024-12-16T13:01:36.836+0000] {processor.py:186} INFO - Started process (PID=24266) to work on /opt/airflow/dags/Assignment-2_dags/dag_b.py
+[2024-12-16T13:01:36.837+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Assignment-2_dags/dag_b.py for tasks to queue
+[2024-12-16T13:01:36.839+0000] {logging_mixin.py:190} INFO - [2024-12-16T13:01:36.839+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Assignment-2_dags/dag_b.py
+[2024-12-16T13:01:36.858+0000] {processor.py:925} INFO - DAG(s) 'DAG_B' retrieved from /opt/airflow/dags/Assignment-2_dags/dag_b.py
+[2024-12-16T13:01:36.875+0000] {logging_mixin.py:190} INFO - [2024-12-16T13:01:36.875+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T13:01:36.887+0000] {logging_mixin.py:190} INFO - [2024-12-16T13:01:36.887+0000] {dag.py:4180} INFO - Setting next_dagrun for DAG_B to None, run_after=None
+[2024-12-16T13:01:36.898+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Assignment-2_dags/dag_b.py took 0.069 seconds
+[2024-12-16T13:02:07.579+0000] {processor.py:186} INFO - Started process (PID=24283) to work on /opt/airflow/dags/Assignment-2_dags/dag_b.py
+[2024-12-16T13:02:07.581+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Assignment-2_dags/dag_b.py for tasks to queue
+[2024-12-16T13:02:07.583+0000] {logging_mixin.py:190} INFO - [2024-12-16T13:02:07.583+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Assignment-2_dags/dag_b.py
+[2024-12-16T13:02:07.596+0000] {processor.py:925} INFO - DAG(s) 'DAG_B' retrieved from /opt/airflow/dags/Assignment-2_dags/dag_b.py
+[2024-12-16T13:02:07.615+0000] {logging_mixin.py:190} INFO - [2024-12-16T13:02:07.615+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T13:02:07.624+0000] {logging_mixin.py:190} INFO - [2024-12-16T13:02:07.623+0000] {dag.py:4180} INFO - Setting next_dagrun for DAG_B to None, run_after=None
+[2024-12-16T13:02:07.634+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Assignment-2_dags/dag_b.py took 0.060 seconds
+[2024-12-16T13:02:38.386+0000] {processor.py:186} INFO - Started process (PID=24300) to work on /opt/airflow/dags/Assignment-2_dags/dag_b.py
+[2024-12-16T13:02:38.388+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Assignment-2_dags/dag_b.py for tasks to queue
+[2024-12-16T13:02:38.393+0000] {logging_mixin.py:190} INFO - [2024-12-16T13:02:38.392+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Assignment-2_dags/dag_b.py
+[2024-12-16T13:02:38.404+0000] {processor.py:925} INFO - DAG(s) 'DAG_B' retrieved from /opt/airflow/dags/Assignment-2_dags/dag_b.py
+[2024-12-16T13:02:38.421+0000] {logging_mixin.py:190} INFO - [2024-12-16T13:02:38.420+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T13:02:38.432+0000] {logging_mixin.py:190} INFO - [2024-12-16T13:02:38.432+0000] {dag.py:4180} INFO - Setting next_dagrun for DAG_B to None, run_after=None
+[2024-12-16T13:02:38.443+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Assignment-2_dags/dag_b.py took 0.065 seconds
+[2024-12-16T13:03:09.165+0000] {processor.py:186} INFO - Started process (PID=24317) to work on /opt/airflow/dags/Assignment-2_dags/dag_b.py
+[2024-12-16T13:03:09.166+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Assignment-2_dags/dag_b.py for tasks to queue
+[2024-12-16T13:03:09.171+0000] {logging_mixin.py:190} INFO - [2024-12-16T13:03:09.171+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Assignment-2_dags/dag_b.py
+[2024-12-16T13:03:09.183+0000] {processor.py:925} INFO - DAG(s) 'DAG_B' retrieved from /opt/airflow/dags/Assignment-2_dags/dag_b.py
+[2024-12-16T13:03:09.202+0000] {logging_mixin.py:190} INFO - [2024-12-16T13:03:09.202+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T13:03:09.213+0000] {logging_mixin.py:190} INFO - [2024-12-16T13:03:09.212+0000] {dag.py:4180} INFO - Setting next_dagrun for DAG_B to None, run_after=None
+[2024-12-16T13:03:09.226+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Assignment-2_dags/dag_b.py took 0.070 seconds
+[2024-12-16T13:03:39.940+0000] {processor.py:186} INFO - Started process (PID=24334) to work on /opt/airflow/dags/Assignment-2_dags/dag_b.py
+[2024-12-16T13:03:39.941+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Assignment-2_dags/dag_b.py for tasks to queue
+[2024-12-16T13:03:39.944+0000] {logging_mixin.py:190} INFO - [2024-12-16T13:03:39.944+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Assignment-2_dags/dag_b.py
+[2024-12-16T13:03:39.956+0000] {processor.py:925} INFO - DAG(s) 'DAG_B' retrieved from /opt/airflow/dags/Assignment-2_dags/dag_b.py
+[2024-12-16T13:03:39.975+0000] {logging_mixin.py:190} INFO - [2024-12-16T13:03:39.974+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-16T13:03:39.989+0000] {logging_mixin.py:190} INFO - [2024-12-16T13:03:39.988+0000] {dag.py:4180} INFO - Setting next_dagrun for DAG_B to None, run_after=None
+[2024-12-16T13:03:40.000+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Assignment-2_dags/dag_b.py took 0.068 seconds

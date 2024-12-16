@@ -1,0 +1,126 @@
+[2024-12-07T00:59:28.487+0000] {processor.py:186} INFO - Started process (PID=4049) to work on /opt/airflow/dags/Assignment-1_dags/Q4_dag.py
+[2024-12-07T00:59:28.487+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Assignment-1_dags/Q4_dag.py for tasks to queue
+[2024-12-07T00:59:28.491+0000] {logging_mixin.py:190} INFO - [2024-12-07T00:59:28.491+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Assignment-1_dags/Q4_dag.py
+[2024-12-07T00:59:28.500+0000] {processor.py:925} INFO - DAG(s) 'send_alert_google_chat' retrieved from /opt/airflow/dags/Assignment-1_dags/Q4_dag.py
+[2024-12-07T00:59:28.523+0000] {logging_mixin.py:190} INFO - [2024-12-07T00:59:28.523+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-07T00:59:28.533+0000] {logging_mixin.py:190} INFO - [2024-12-07T00:59:28.532+0000] {dag.py:4180} INFO - Setting next_dagrun for send_alert_google_chat to None, run_after=None
+[2024-12-07T00:59:28.549+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Assignment-1_dags/Q4_dag.py took 0.070 seconds
+[2024-12-07T02:23:38.094+0000] {processor.py:186} INFO - Started process (PID=4058) to work on /opt/airflow/dags/Assignment-1_dags/Q4_dag.py
+[2024-12-07T02:23:38.097+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Assignment-1_dags/Q4_dag.py for tasks to queue
+[2024-12-07T02:23:38.110+0000] {logging_mixin.py:190} INFO - [2024-12-07T02:23:38.109+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Assignment-1_dags/Q4_dag.py
+[2024-12-07T02:23:38.133+0000] {processor.py:925} INFO - DAG(s) 'send_alert_google_chat' retrieved from /opt/airflow/dags/Assignment-1_dags/Q4_dag.py
+[2024-12-07T02:23:38.159+0000] {logging_mixin.py:190} INFO - [2024-12-07T02:23:38.159+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-07T02:23:38.181+0000] {logging_mixin.py:190} INFO - [2024-12-07T02:23:38.181+0000] {dag.py:4180} INFO - Setting next_dagrun for send_alert_google_chat to None, run_after=None
+[2024-12-07T02:23:38.203+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Assignment-1_dags/Q4_dag.py took 0.121 seconds
+[2024-12-07T04:04:49.557+0000] {processor.py:186} INFO - Started process (PID=4067) to work on /opt/airflow/dags/Assignment-1_dags/Q4_dag.py
+[2024-12-07T04:04:49.559+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Assignment-1_dags/Q4_dag.py for tasks to queue
+[2024-12-07T04:04:49.565+0000] {logging_mixin.py:190} INFO - [2024-12-07T04:04:49.564+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Assignment-1_dags/Q4_dag.py
+[2024-12-07T04:04:49.578+0000] {processor.py:925} INFO - DAG(s) 'send_alert_google_chat' retrieved from /opt/airflow/dags/Assignment-1_dags/Q4_dag.py
+[2024-12-07T04:04:49.601+0000] {logging_mixin.py:190} INFO - [2024-12-07T04:04:49.601+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-07T04:04:49.617+0000] {logging_mixin.py:190} INFO - [2024-12-07T04:04:49.616+0000] {dag.py:4180} INFO - Setting next_dagrun for send_alert_google_chat to None, run_after=None
+[2024-12-07T04:04:49.640+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Assignment-1_dags/Q4_dag.py took 0.099 seconds
+[2024-12-07T05:13:24.832+0000] {processor.py:186} INFO - Started process (PID=4076) to work on /opt/airflow/dags/Assignment-1_dags/Q4_dag.py
+[2024-12-07T05:13:24.833+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Assignment-1_dags/Q4_dag.py for tasks to queue
+[2024-12-07T05:13:24.837+0000] {logging_mixin.py:190} INFO - [2024-12-07T05:13:24.836+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Assignment-1_dags/Q4_dag.py
+[2024-12-07T05:13:24.850+0000] {processor.py:925} INFO - DAG(s) 'send_alert_google_chat' retrieved from /opt/airflow/dags/Assignment-1_dags/Q4_dag.py
+[2024-12-07T05:13:24.890+0000] {logging_mixin.py:190} INFO - [2024-12-07T05:13:24.889+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-07T05:13:24.906+0000] {logging_mixin.py:190} INFO - [2024-12-07T05:13:24.906+0000] {dag.py:4180} INFO - Setting next_dagrun for send_alert_google_chat to None, run_after=None
+[2024-12-07T05:13:24.926+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Assignment-1_dags/Q4_dag.py took 0.102 seconds
+[2024-12-07T06:34:21.147+0000] {processor.py:186} INFO - Started process (PID=4085) to work on /opt/airflow/dags/Assignment-1_dags/Q4_dag.py
+[2024-12-07T06:34:21.149+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Assignment-1_dags/Q4_dag.py for tasks to queue
+[2024-12-07T06:34:21.151+0000] {logging_mixin.py:190} INFO - [2024-12-07T06:34:21.150+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Assignment-1_dags/Q4_dag.py
+[2024-12-07T06:34:21.164+0000] {processor.py:925} INFO - DAG(s) 'send_alert_google_chat' retrieved from /opt/airflow/dags/Assignment-1_dags/Q4_dag.py
+[2024-12-07T06:34:21.185+0000] {logging_mixin.py:190} INFO - [2024-12-07T06:34:21.185+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-07T06:34:21.197+0000] {logging_mixin.py:190} INFO - [2024-12-07T06:34:21.197+0000] {dag.py:4180} INFO - Setting next_dagrun for send_alert_google_chat to None, run_after=None
+[2024-12-07T06:34:21.212+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Assignment-1_dags/Q4_dag.py took 0.073 seconds
+[2024-12-07T07:42:17.687+0000] {processor.py:186} INFO - Started process (PID=4094) to work on /opt/airflow/dags/Assignment-1_dags/Q4_dag.py
+[2024-12-07T07:42:17.688+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Assignment-1_dags/Q4_dag.py for tasks to queue
+[2024-12-07T07:42:17.692+0000] {logging_mixin.py:190} INFO - [2024-12-07T07:42:17.692+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Assignment-1_dags/Q4_dag.py
+[2024-12-07T07:42:17.705+0000] {processor.py:925} INFO - DAG(s) 'send_alert_google_chat' retrieved from /opt/airflow/dags/Assignment-1_dags/Q4_dag.py
+[2024-12-07T07:42:17.739+0000] {logging_mixin.py:190} INFO - [2024-12-07T07:42:17.738+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-07T07:42:17.758+0000] {logging_mixin.py:190} INFO - [2024-12-07T07:42:17.758+0000] {dag.py:4180} INFO - Setting next_dagrun for send_alert_google_chat to None, run_after=None
+[2024-12-07T07:42:17.772+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Assignment-1_dags/Q4_dag.py took 0.096 seconds
+[2024-12-07T08:47:02.953+0000] {processor.py:186} INFO - Started process (PID=4103) to work on /opt/airflow/dags/Assignment-1_dags/Q4_dag.py
+[2024-12-07T08:47:02.953+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Assignment-1_dags/Q4_dag.py for tasks to queue
+[2024-12-07T08:47:02.958+0000] {logging_mixin.py:190} INFO - [2024-12-07T08:47:02.958+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Assignment-1_dags/Q4_dag.py
+[2024-12-07T08:47:02.971+0000] {processor.py:925} INFO - DAG(s) 'send_alert_google_chat' retrieved from /opt/airflow/dags/Assignment-1_dags/Q4_dag.py
+[2024-12-07T08:47:02.990+0000] {logging_mixin.py:190} INFO - [2024-12-07T08:47:02.990+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-07T08:47:03.000+0000] {logging_mixin.py:190} INFO - [2024-12-07T08:47:03.000+0000] {dag.py:4180} INFO - Setting next_dagrun for send_alert_google_chat to None, run_after=None
+[2024-12-07T08:47:03.011+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Assignment-1_dags/Q4_dag.py took 0.067 seconds
+[2024-12-07T10:22:46.300+0000] {processor.py:186} INFO - Started process (PID=4112) to work on /opt/airflow/dags/Assignment-1_dags/Q4_dag.py
+[2024-12-07T10:22:46.301+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Assignment-1_dags/Q4_dag.py for tasks to queue
+[2024-12-07T10:22:46.303+0000] {logging_mixin.py:190} INFO - [2024-12-07T10:22:46.303+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Assignment-1_dags/Q4_dag.py
+[2024-12-07T10:22:46.318+0000] {processor.py:925} INFO - DAG(s) 'send_alert_google_chat' retrieved from /opt/airflow/dags/Assignment-1_dags/Q4_dag.py
+[2024-12-07T10:22:46.341+0000] {logging_mixin.py:190} INFO - [2024-12-07T10:22:46.341+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-07T10:22:46.350+0000] {logging_mixin.py:190} INFO - [2024-12-07T10:22:46.350+0000] {dag.py:4180} INFO - Setting next_dagrun for send_alert_google_chat to None, run_after=None
+[2024-12-07T10:22:46.362+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Assignment-1_dags/Q4_dag.py took 0.070 seconds
+[2024-12-07T10:30:52.089+0000] {processor.py:186} INFO - Started process (PID=4121) to work on /opt/airflow/dags/Assignment-1_dags/Q4_dag.py
+[2024-12-07T10:30:52.090+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Assignment-1_dags/Q4_dag.py for tasks to queue
+[2024-12-07T10:30:52.094+0000] {logging_mixin.py:190} INFO - [2024-12-07T10:30:52.094+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Assignment-1_dags/Q4_dag.py
+[2024-12-07T10:30:52.107+0000] {processor.py:925} INFO - DAG(s) 'send_alert_google_chat' retrieved from /opt/airflow/dags/Assignment-1_dags/Q4_dag.py
+[2024-12-07T10:30:52.128+0000] {logging_mixin.py:190} INFO - [2024-12-07T10:30:52.128+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-07T10:30:52.140+0000] {logging_mixin.py:190} INFO - [2024-12-07T10:30:52.140+0000] {dag.py:4180} INFO - Setting next_dagrun for send_alert_google_chat to None, run_after=None
+[2024-12-07T10:30:52.152+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Assignment-1_dags/Q4_dag.py took 0.071 seconds
+[2024-12-07T11:20:45.085+0000] {processor.py:186} INFO - Started process (PID=4130) to work on /opt/airflow/dags/Assignment-1_dags/Q4_dag.py
+[2024-12-07T11:20:45.086+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Assignment-1_dags/Q4_dag.py for tasks to queue
+[2024-12-07T11:20:45.092+0000] {logging_mixin.py:190} INFO - [2024-12-07T11:20:45.091+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Assignment-1_dags/Q4_dag.py
+[2024-12-07T11:20:45.104+0000] {processor.py:925} INFO - DAG(s) 'send_alert_google_chat' retrieved from /opt/airflow/dags/Assignment-1_dags/Q4_dag.py
+[2024-12-07T11:20:45.124+0000] {logging_mixin.py:190} INFO - [2024-12-07T11:20:45.124+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-07T11:20:45.134+0000] {logging_mixin.py:190} INFO - [2024-12-07T11:20:45.134+0000] {dag.py:4180} INFO - Setting next_dagrun for send_alert_google_chat to None, run_after=None
+[2024-12-07T11:20:45.146+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Assignment-1_dags/Q4_dag.py took 0.070 seconds
+[2024-12-07T12:35:15.781+0000] {processor.py:186} INFO - Started process (PID=4139) to work on /opt/airflow/dags/Assignment-1_dags/Q4_dag.py
+[2024-12-07T12:35:15.782+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Assignment-1_dags/Q4_dag.py for tasks to queue
+[2024-12-07T12:35:15.785+0000] {logging_mixin.py:190} INFO - [2024-12-07T12:35:15.785+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Assignment-1_dags/Q4_dag.py
+[2024-12-07T12:35:15.795+0000] {processor.py:925} INFO - DAG(s) 'send_alert_google_chat' retrieved from /opt/airflow/dags/Assignment-1_dags/Q4_dag.py
+[2024-12-07T12:35:15.813+0000] {logging_mixin.py:190} INFO - [2024-12-07T12:35:15.813+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-07T12:35:15.821+0000] {logging_mixin.py:190} INFO - [2024-12-07T12:35:15.821+0000] {dag.py:4180} INFO - Setting next_dagrun for send_alert_google_chat to None, run_after=None
+[2024-12-07T12:35:15.831+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Assignment-1_dags/Q4_dag.py took 0.057 seconds
+[2024-12-07T14:00:57.637+0000] {processor.py:186} INFO - Started process (PID=4148) to work on /opt/airflow/dags/Assignment-1_dags/Q4_dag.py
+[2024-12-07T14:00:57.639+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Assignment-1_dags/Q4_dag.py for tasks to queue
+[2024-12-07T14:00:57.645+0000] {logging_mixin.py:190} INFO - [2024-12-07T14:00:57.645+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Assignment-1_dags/Q4_dag.py
+[2024-12-07T14:00:57.670+0000] {processor.py:925} INFO - DAG(s) 'send_alert_google_chat' retrieved from /opt/airflow/dags/Assignment-1_dags/Q4_dag.py
+[2024-12-07T14:00:57.719+0000] {logging_mixin.py:190} INFO - [2024-12-07T14:00:57.719+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-07T14:00:57.736+0000] {logging_mixin.py:190} INFO - [2024-12-07T14:00:57.735+0000] {dag.py:4180} INFO - Setting next_dagrun for send_alert_google_chat to None, run_after=None
+[2024-12-07T14:00:58.077+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Assignment-1_dags/Q4_dag.py took 0.467 seconds
+[2024-12-07T15:40:11.394+0000] {processor.py:186} INFO - Started process (PID=4157) to work on /opt/airflow/dags/Assignment-1_dags/Q4_dag.py
+[2024-12-07T15:40:11.396+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Assignment-1_dags/Q4_dag.py for tasks to queue
+[2024-12-07T15:40:11.400+0000] {logging_mixin.py:190} INFO - [2024-12-07T15:40:11.400+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Assignment-1_dags/Q4_dag.py
+[2024-12-07T15:40:11.413+0000] {processor.py:925} INFO - DAG(s) 'send_alert_google_chat' retrieved from /opt/airflow/dags/Assignment-1_dags/Q4_dag.py
+[2024-12-07T15:40:11.445+0000] {logging_mixin.py:190} INFO - [2024-12-07T15:40:11.445+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-07T15:40:11.460+0000] {logging_mixin.py:190} INFO - [2024-12-07T15:40:11.460+0000] {dag.py:4180} INFO - Setting next_dagrun for send_alert_google_chat to None, run_after=None
+[2024-12-07T15:40:11.474+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Assignment-1_dags/Q4_dag.py took 0.089 seconds
+[2024-12-07T17:04:52.307+0000] {processor.py:186} INFO - Started process (PID=4166) to work on /opt/airflow/dags/Assignment-1_dags/Q4_dag.py
+[2024-12-07T17:04:52.308+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Assignment-1_dags/Q4_dag.py for tasks to queue
+[2024-12-07T17:04:52.312+0000] {logging_mixin.py:190} INFO - [2024-12-07T17:04:52.312+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Assignment-1_dags/Q4_dag.py
+[2024-12-07T17:04:52.344+0000] {processor.py:925} INFO - DAG(s) 'send_alert_google_chat' retrieved from /opt/airflow/dags/Assignment-1_dags/Q4_dag.py
+[2024-12-07T17:04:52.381+0000] {logging_mixin.py:190} INFO - [2024-12-07T17:04:52.381+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-07T17:04:52.396+0000] {logging_mixin.py:190} INFO - [2024-12-07T17:04:52.396+0000] {dag.py:4180} INFO - Setting next_dagrun for send_alert_google_chat to None, run_after=None
+[2024-12-07T17:04:52.411+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Assignment-1_dags/Q4_dag.py took 0.116 seconds
+[2024-12-07T18:45:06.413+0000] {processor.py:186} INFO - Started process (PID=4175) to work on /opt/airflow/dags/Assignment-1_dags/Q4_dag.py
+[2024-12-07T18:45:06.414+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Assignment-1_dags/Q4_dag.py for tasks to queue
+[2024-12-07T18:45:06.420+0000] {logging_mixin.py:190} INFO - [2024-12-07T18:45:06.420+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Assignment-1_dags/Q4_dag.py
+[2024-12-07T18:45:06.450+0000] {processor.py:925} INFO - DAG(s) 'send_alert_google_chat' retrieved from /opt/airflow/dags/Assignment-1_dags/Q4_dag.py
+[2024-12-07T18:45:06.477+0000] {logging_mixin.py:190} INFO - [2024-12-07T18:45:06.476+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-07T18:45:06.498+0000] {logging_mixin.py:190} INFO - [2024-12-07T18:45:06.498+0000] {dag.py:4180} INFO - Setting next_dagrun for send_alert_google_chat to None, run_after=None
+[2024-12-07T18:45:06.513+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Assignment-1_dags/Q4_dag.py took 0.108 seconds
+[2024-12-07T20:05:50.324+0000] {processor.py:186} INFO - Started process (PID=4184) to work on /opt/airflow/dags/Assignment-1_dags/Q4_dag.py
+[2024-12-07T20:05:50.327+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Assignment-1_dags/Q4_dag.py for tasks to queue
+[2024-12-07T20:05:50.332+0000] {logging_mixin.py:190} INFO - [2024-12-07T20:05:50.331+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Assignment-1_dags/Q4_dag.py
+[2024-12-07T20:05:50.355+0000] {processor.py:925} INFO - DAG(s) 'send_alert_google_chat' retrieved from /opt/airflow/dags/Assignment-1_dags/Q4_dag.py
+[2024-12-07T20:05:50.383+0000] {logging_mixin.py:190} INFO - [2024-12-07T20:05:50.383+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-07T20:05:50.413+0000] {logging_mixin.py:190} INFO - [2024-12-07T20:05:50.413+0000] {dag.py:4180} INFO - Setting next_dagrun for send_alert_google_chat to None, run_after=None
+[2024-12-07T20:05:50.441+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Assignment-1_dags/Q4_dag.py took 0.152 seconds
+[2024-12-07T21:20:50.722+0000] {processor.py:186} INFO - Started process (PID=4193) to work on /opt/airflow/dags/Assignment-1_dags/Q4_dag.py
+[2024-12-07T21:20:50.725+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Assignment-1_dags/Q4_dag.py for tasks to queue
+[2024-12-07T21:20:50.733+0000] {logging_mixin.py:190} INFO - [2024-12-07T21:20:50.733+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Assignment-1_dags/Q4_dag.py
+[2024-12-07T21:20:50.760+0000] {processor.py:925} INFO - DAG(s) 'send_alert_google_chat' retrieved from /opt/airflow/dags/Assignment-1_dags/Q4_dag.py
+[2024-12-07T21:20:51.042+0000] {logging_mixin.py:190} INFO - [2024-12-07T21:20:51.041+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-07T21:20:51.133+0000] {logging_mixin.py:190} INFO - [2024-12-07T21:20:51.133+0000] {dag.py:4180} INFO - Setting next_dagrun for send_alert_google_chat to None, run_after=None
+[2024-12-07T21:20:51.160+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Assignment-1_dags/Q4_dag.py took 0.481 seconds
+[2024-12-07T23:02:14.507+0000] {processor.py:186} INFO - Started process (PID=4202) to work on /opt/airflow/dags/Assignment-1_dags/Q4_dag.py
+[2024-12-07T23:02:14.509+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Assignment-1_dags/Q4_dag.py for tasks to queue
+[2024-12-07T23:02:14.518+0000] {logging_mixin.py:190} INFO - [2024-12-07T23:02:14.518+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Assignment-1_dags/Q4_dag.py
+[2024-12-07T23:02:14.538+0000] {processor.py:925} INFO - DAG(s) 'send_alert_google_chat' retrieved from /opt/airflow/dags/Assignment-1_dags/Q4_dag.py
+[2024-12-07T23:02:14.563+0000] {logging_mixin.py:190} INFO - [2024-12-07T23:02:14.563+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-07T23:02:14.590+0000] {logging_mixin.py:190} INFO - [2024-12-07T23:02:14.590+0000] {dag.py:4180} INFO - Setting next_dagrun for send_alert_google_chat to None, run_after=None
+[2024-12-07T23:02:14.607+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Assignment-1_dags/Q4_dag.py took 0.118 seconds
